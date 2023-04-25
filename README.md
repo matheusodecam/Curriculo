@@ -24,7 +24,7 @@ Estou em busca do meu primeiro emprego na área de programação, pois estou mig
 
 ## Habilidades Técnicas
 - Hard Skills
-    - Linguagens de programação: C, Java, Dart
+    - Lógica de programação e construção de algoritmos em: C, Java, Dart
     - Programação Orientada a Objetos: Java e Dart
 	- Estrutura de dados (em estudo)
 	- Desenvolvimento com Flutter SDK
