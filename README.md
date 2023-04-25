@@ -6,7 +6,7 @@
 - Sobral, Ceará
 
 ## Resumo
-Estou em busca do meu primeiro emprego na área de programação, pois estou migrando de área de atuação. Possuo graduação em Matemática Bacharelado. Atualemente curso Engenharia da Computação na UFC, campus Sobral, desde agosto de 2022. Tenho um ano de experiência em Ciências da Computação pela Universidade Estadual do Vale do Acaraú, e realizei vários mini cursos relacionados a programação e desenvolvimento de software, na faculdade, tais como: Desenvolvimento de Jogos em Unity, Internet das Coisas, Arduino Básico. Também participei de uma Olimpíada de Programação(em C) no IFCE de Sobral, onde fiquei em segundo lugar.
+Estou em busca do meu primeiro emprego na área de programação, pois estou migrando de área de atuação. Possuo graduação em Matemática Bacharelado. Atualmente curso Engenharia da Computação na UFC, campus Sobral, desde agosto de 2022. Tenho um ano de experiência em Ciências da Computação pela Universidade Estadual do Vale do Acaraú, e realizei vários mini cursos relacionados a programação e desenvolvimento de software, na faculdade, tais como: Desenvolvimento de Jogos em Unity, Internet das Coisas, Arduino Básico. Também participei de uma Olimpíada de Programação(em C) no IFCE de Sobral, onde fiquei em segundo lugar.
 
 ## Experiência Profissional
 - Professor de Matemática (2016-2022)
