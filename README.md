@@ -31,6 +31,7 @@ Estou em busca do meu primeiro emprego na área de programação, pois estou mig
 	- Gerenciadores de estado
 	- APIs
 	- Bibliotecas
+	- Domínio da ferramenta de versionamento: Git
 - Soft Skills
 	- Excelente habilidade de comunicação e apresentação em público
 	- Experiente em gerenciar e administrar grupos de pessoas
