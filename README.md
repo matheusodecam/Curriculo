@@ -20,6 +20,7 @@ Estou em busca do meu primeiro emprego na área de programação, pois estou mig
     - Lógica Condicional e Controle de Fluxo em Java - DIO (2023)
     - Lógica de Programação em Dart pelo Fluterrando Masterclass (2022)
     - Curso de Flutter pela B7Web (2023)
+    - Curso de Flutter pela Udemy (2023)	
 	- Dentre várias outras certificações adquiridas em mini-cursos, paletras e competições
 
 ## Habilidades Técnicas
