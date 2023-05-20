@@ -44,7 +44,10 @@ Estou em busca do meu primeiro emprego na área de programação, pois estou mig
 	- Pró-atividade para solucionar problemas de forma autônoma e buscar ajuda quando necessário
 
 ## Projetos Pessoais
-- Desenvolvimento de aplicativos pessoais que coloquem em prática os conhecimentos adquiridos ao longo da minha jornada como programador e estudante de programação
+- Desenvolvimento de aplicativos pessoais que coloquem em prática os conhecimentos adquiridos ao longo da minha jornada como programador e estudante de programação mobile
+
+## Objetivo profissional
+- Manutenções e novas implementações em sistemas existentes, além da criação de novos aplicativos
 
 ## Idiomas
 - Português (nativo)
