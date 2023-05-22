@@ -34,7 +34,6 @@ Estou em busca do meu primeiro emprego na área de programação, pois estou mig
 	- Bibliotecas
 	- Domínio da ferramenta de versionamento: Git
 	- SQLite
-	- MySQL
 	- Firebase
 - Soft Skills
 	- Excelente habilidade de comunicação e apresentação em público
